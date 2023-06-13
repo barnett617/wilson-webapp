@@ -1,0 +1,1 @@
+import{r as a,a as r,o as n,c as s,b as e,t as c,d as l,w as _,F as m}from"./index-13ff4143.js";const f={__name:"Home",setup(u){const t=a(0);return(i,p)=>{const o=r("router-link");return n(),s(m,null,[e(" Home "+c(t.value)+" ",1),l(o,{to:"/detail"},{default:_(()=>[e("Go to Detail")]),_:1})],64)}}};export{f as default};
